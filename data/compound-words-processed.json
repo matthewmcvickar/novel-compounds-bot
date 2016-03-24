@@ -865,11 +865,6 @@
     "secondWord": "keeper"
   },
   {
-    "compoundWord": "booklet",
-    "firstWord": "book",
-    "secondWord": "let"
-  },
-  {
     "compoundWord": "bookmark",
     "firstWord": "book",
     "secondWord": "mark"
@@ -2010,11 +2005,6 @@
     "secondWord": "lass"
   },
   {
-    "compoundWord": "cutlet",
-    "firstWord": "cut",
-    "secondWord": "let"
-  },
-  {
     "compoundWord": "cutoff",
     "firstWord": "cut",
     "secondWord": "off"
@@ -2465,11 +2455,6 @@
     "secondWord": "way"
   },
   {
-    "compoundWord": "droplet",
-    "firstWord": "drop",
-    "secondWord": "let"
-  },
-  {
     "compoundWord": "dropout",
     "firstWord": "drop",
     "secondWord": "out"
@@ -2665,11 +2650,6 @@
     "secondWord": "hell"
   },
   {
-    "compoundWord": "elbowroom",
-    "firstWord": "elbow",
-    "secondWord": "room"
-  },
-  {
     "compoundWord": "elderberry",
     "firstWord": "elder",
     "secondWord": "berry"
@@ -2763,11 +2743,6 @@
     "compoundWord": "eyelash",
     "firstWord": "eye",
     "secondWord": "lash"
-  },
-  {
-    "compoundWord": "eyelet",
-    "firstWord": "eye",
-    "secondWord": "let"
   },
   {
     "compoundWord": "eyelid",
@@ -5675,11 +5650,6 @@
     "secondWord": "land"
   },
   {
-    "compoundWord": "inlet",
-    "firstWord": "in",
-    "secondWord": "let"
-  },
-  {
     "compoundWord": "inmate",
     "firstWord": "in",
     "secondWord": "mate"
@@ -5768,11 +5738,6 @@
     "compoundWord": "itself",
     "firstWord": "its",
     "secondWord": "elf"
-  },
-  {
-    "compoundWord": "jackass",
-    "firstWord": "jack",
-    "secondWord": "ass"
   },
   {
     "compoundWord": "jackfruit",
@@ -5973,11 +5938,6 @@
     "compoundWord": "kingfisher",
     "firstWord": "king",
     "secondWord": "fisher"
-  },
-  {
-    "compoundWord": "kinglet",
-    "firstWord": "king",
-    "secondWord": "let"
   },
   {
     "compoundWord": "kingpin",
@@ -7658,11 +7618,6 @@
     "compoundWord": "outlay",
     "firstWord": "out",
     "secondWord": "lay"
-  },
-  {
-    "compoundWord": "outlet",
-    "firstWord": "out",
-    "secondWord": "let"
   },
   {
     "compoundWord": "outline",
@@ -10303,11 +10258,6 @@
     "compoundWord": "runaway",
     "firstWord": "run",
     "secondWord": "away"
-  },
-  {
-    "compoundWord": "runlet",
-    "firstWord": "run",
-    "secondWord": "let"
   },
   {
     "compoundWord": "runoff",
