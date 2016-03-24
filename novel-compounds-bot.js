@@ -4,8 +4,8 @@
 var _          = require('underscore');
 var request    = require('request');
 var wordfilter = require('wordfilter');
+var Twit       = require('twit');
 
-var Twit = require('twit');
 var twitter = new Twit({
   consumer_key:        process.env.TWITTER_CONSUMER_KEY,
   consumer_secret:     process.env.TWITTER_CONSUMER_SECRET,
@@ -125,7 +125,7 @@ function makeNewCompound (wordData) {
   // If they both have synonyms, randomly replace either one or both of them.
   else {
     var wordPossibilities = ['first', 'second', 'both'];
-    wordData = replaceWords(wordData, wordPossibilities[_.random(0, 2)]);
+    wordData = replaceWords(wordData, wordPossibilities[_.random(wordPossibilities.length)]);
   }
 
   // console.log(wordData);
@@ -169,14 +169,13 @@ function composeTweet (wordData) {
     'I tend to say ‘' + b + '’ instead of ‘' + a + '.’',
     'Not ' + a + '. ' + B + '.',
     A + '? ' + B + '!',
+    A + '? ' + B + '.',
     A + '… How about ' + b + '?',
+    B + ', like ' + a + '.',
     B + ', not ' + a + '.',
     B + ' rather than ' + a + '.',
     B + ' instead of ' + a + '.',
-    B + ' in place of ' + a + '.',
-    B + ' as opposed to ' + a + '.',
-    B + ' as an alternative to ' + a + '.',
-    B + ' as a substitute for ' + a + '.'
+    B + ' as opposed to ' + a + '.'
   ];
 
   var tweet = templates[_.random(templates.length - 1)];
