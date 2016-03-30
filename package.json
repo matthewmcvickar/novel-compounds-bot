@@ -1,6 +1,6 @@
 {
   "name": "novelcompounds",
-  "description": "A Twitter that creates new compound words by substituting synonyms into existing compound words.",
+  "description": "A Twitter bot that creates new compound words by substituting synonyms into existing compound words.",
   "version": "1.0.0",
   "homepage": "https://github.com/matthewmcvickar/novel-compounds-bot",
   "author": {
