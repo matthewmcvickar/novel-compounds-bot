@@ -51,7 +51,7 @@ function pickCompound () {
   // Pick a compound.
   var compound = compoundWords[_.random(0, numberOfCompoundWords - 1)];
 
-  // console.log('Chosen compound: ' + compound.compoundWord + ' (' + compound.firstWord + ', ' + compound.secondWord + ')');
+  console.log('Chosen compound: ' + compound.compoundWord + ' (' + compound.firstWord + ', ' + compound.secondWord + ')');
 
   return {
     originalCompound: compound.compoundWord,
@@ -81,7 +81,7 @@ function getRelatedWord (word, relationship) {
         var relatedWords = relatedWordsData[0].words.map(isAllowedWord),
             relatedWord  = relatedWords[_.random(0, relatedWords.length - 1)];
 
-        // console.log('New synonym for ' + word + ': ' + relatedWord);
+        console.log('New synonym for ' + word + ': ' + relatedWord);
 
         resolve(relatedWord);
       }
@@ -128,7 +128,7 @@ function makeNewCompound (wordData) {
     wordData = replaceWords(wordData, wordPossibilities[_.random(wordPossibilities.length - 1)]);
   }
 
-  // console.log(wordData);
+  console.log(wordData);
 
   return wordData;
 }
