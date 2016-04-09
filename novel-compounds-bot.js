@@ -63,7 +63,7 @@ function pickCompound () {
 // Get synonyms for a word and pick one.
 function getRelatedWord (word, relationship) {
   var url = 'http://api.wordnik.com:80/v4/word.json/' + word +
-            '/relatedWords?useCanonical=false&relationshipTypes=' + relationship +
+            '/relatedWords?useCanonical=true&relationshipTypes=' + relationship +
             '&limitPerRelationshipType=25' + '&api_key=' + WORDNIK_API_KEY;
 
   return new Promise (function (resolve) {
