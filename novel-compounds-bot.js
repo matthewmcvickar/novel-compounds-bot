@@ -163,19 +163,14 @@ function composeTweet (wordData) {
       B = capitalizeFirstLetter(b);
 
   var templates = [
-    A + '… Is that similar to ' + b + '?',
-    'I know ' + a + ', but what about ' + b + '?',
-    'Sometimes I mean ‘' + b + '’ when I say ‘' + a + '.’',
-    'I tend to say ‘' + b + '’ instead of ‘' + a + '.’',
-    'Not ' + a + '. ' + B + '.',
     A + '? ' + B + '!',
     A + '? ' + B + '.',
-    A + '… How about ' + b + '?',
     B + ', like ' + a + '.',
     B + ', not ' + a + '.',
     B + ' rather than ' + a + '.',
     B + ' instead of ' + a + '.',
-    B + ' as opposed to ' + a + '.'
+    B + ' as opposed to ' + a + '.',
+    'Not ' + a + '. ' + B + '.'
   ];
 
   var tweet = templates[_.random(templates.length - 1)];
