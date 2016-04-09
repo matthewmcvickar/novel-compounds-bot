@@ -49,7 +49,7 @@ function isAllowedWord (word) {
 // Create a new compound word.
 function pickCompound () {
   // Pick a compound.
-  var compound = compoundWords[_.random(0, numberOfCompoundWords)];
+  var compound = compoundWords[_.random(0, numberOfCompoundWords - 1)];
 
   // console.log('Chosen compound: ' + compound.compoundWord + ' (' + compound.firstWord + ', ' + compound.secondWord + ')');
 
@@ -125,7 +125,7 @@ function makeNewCompound (wordData) {
   // If they both have synonyms, randomly replace either one or both of them.
   else {
     var wordPossibilities = ['first', 'second', 'both'];
-    wordData = replaceWords(wordData, wordPossibilities[_.random(wordPossibilities.length)]);
+    wordData = replaceWords(wordData, wordPossibilities[_.random(wordPossibilities.length - 1)]);
   }
 
   // console.log(wordData);
