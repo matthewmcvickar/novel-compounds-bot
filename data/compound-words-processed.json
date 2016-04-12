@@ -11360,54 +11360,14 @@
     "secondWord": "jack"
   },
   {
-    "compoundWord": "stepbrother",
-    "firstWord": "step",
-    "secondWord": "brother"
-  },
-  {
-    "compoundWord": "stepchild",
-    "firstWord": "step",
-    "secondWord": "child"
-  },
-  {
-    "compoundWord": "stepdaughter",
-    "firstWord": "step",
-    "secondWord": "daughter"
-  },
-  {
-    "compoundWord": "stepfather",
-    "firstWord": "step",
-    "secondWord": "father"
-  },
-  {
     "compoundWord": "stepladder",
     "firstWord": "step",
     "secondWord": "ladder"
   },
   {
-    "compoundWord": "stepmother",
-    "firstWord": "step",
-    "secondWord": "mother"
-  },
-  {
-    "compoundWord": "stepparent",
-    "firstWord": "step",
-    "secondWord": "parent"
-  },
-  {
     "compoundWord": "steppingstone",
     "firstWord": "stepping",
     "secondWord": "stone"
-  },
-  {
-    "compoundWord": "stepsister",
-    "firstWord": "step",
-    "secondWord": "sister"
-  },
-  {
-    "compoundWord": "stepson",
-    "firstWord": "step",
-    "secondWord": "son"
   },
   {
     "compoundWord": "stingray",
@@ -12505,11 +12465,6 @@
     "secondWord": "master"
   },
   {
-    "compoundWord": "today",
-    "firstWord": "tod",
-    "secondWord": "ay"
-  },
-  {
     "compoundWord": "toenail",
     "firstWord": "toe",
     "secondWord": "nail"
@@ -12538,11 +12493,6 @@
     "compoundWord": "tomcat",
     "firstWord": "tom",
     "secondWord": "cat"
-  },
-  {
-    "compoundWord": "tonight",
-    "firstWord": "to",
-    "secondWord": "night"
   },
   {
     "compoundWord": "toolbox",
