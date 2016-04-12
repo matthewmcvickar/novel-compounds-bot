@@ -6,18 +6,28 @@ var request    = require('request');
 var wordfilter = require('wordfilter');
 var Twit       = require('twit');
 
-var twitter = new Twit({
-  consumer_key:        process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret:     process.env.TWITTER_CONSUMER_SECRET,
-  access_token:        process.env.TWITTER_ACCESS_TOKEN,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-});
+// Are we on production? Check if an important environment variable exists.
+function isProduction() {
+  if (typeof(process.env.TWITTER_CONSUMER_KEY) !== 'undefined')
+    return true;
+  else
+    return false;
+}
 
-var WORDNIK_API_KEY  = process.env.WORDNIK_API_KEY;
-
-// When working from local machine.
-// var twitter         = new Twit(require('./twitter-config.js'));
-// var WORDNIK_API_KEY = require('./wordnik-config.js').wordnik_api_key;
+// Use environment variables if we're on production, config files if we're local.
+if (isProduction()) {
+  var WORDNIK_API_KEY  = process.env.WORDNIK_API_KEY;
+  var twitter = new Twit({
+    consumer_key:        process.env.TWITTER_CONSUMER_KEY,
+    consumer_secret:     process.env.TWITTER_CONSUMER_SECRET,
+    access_token:        process.env.TWITTER_ACCESS_TOKEN,
+    access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+  });
+}
+else {
+  var WORDNIK_API_KEY = require('./wordnik-config.js').wordnik_api_key;
+  var twitter         = new Twit(require('./twitter-config.js'));
+}
 
 // Load corpora.
 var compoundWords         = require('./data/compound-words-processed.json');
@@ -189,11 +199,13 @@ function postNewCompoundTweet (wordData) {
 
   console.log(tweet);
 
-  twitter.post('statuses/update', { status: tweet }, function (error) {
-    if (error) {
-      console.log('error:', error);
-    }
-  });
+  if (isProduction()) {
+    twitter.post('statuses/update', { status: tweet }, function (error) {
+      if (error) {
+        console.log('error:', error);
+      }
+    });
+  }
 }
 
 // Tweet on a regular schedule. 6 times a day means every 4 hours.
