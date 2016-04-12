@@ -208,19 +208,21 @@ function postNewCompoundTweet (wordData) {
   }
 }
 
-// Tweet on a regular schedule. 6 times a day means every 4 hours.
-var timesToTweetPerDay = 6;
-
+// Tweet on a regular schedule. 6 times a day means every 4 hours. Note that
 // Because Heroku cycles dynos once per day, the bot's schedule will not be
 // regular: https://devcenter.heroku.com/articles/how-heroku-works#dyno-manager
-setInterval(function () {
-  try {
-    makeNovelCompound();
-  }
-  catch (e) {
-    console.log(e);
-  }
-}, (1000 * 60 * 60 * 24) / timesToTweetPerDay);
+if (isProduction()) {
+  var timesToTweetPerDay = 6;
+
+  setInterval(function () {
+    try {
+      makeNovelCompound();
+    }
+    catch (e) {
+      console.log(e);
+    }
+  }, (1000 * 60 * 60 * 24) / timesToTweetPerDay);
+}
 
 // Go!
 makeNovelCompound();
