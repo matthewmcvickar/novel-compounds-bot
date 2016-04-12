@@ -5,11 +5,6 @@
     "secondWord": "board"
   },
   {
-    "compoundWord": "abovedeck",
-    "firstWord": "above",
-    "secondWord": "deck"
-  },
-  {
     "compoundWord": "aboveground",
     "firstWord": "above",
     "secondWord": "ground"
@@ -510,11 +505,6 @@
     "secondWord": "water"
   },
   {
-    "compoundWord": "battleaxe",
-    "firstWord": "battle",
-    "secondWord": "axe"
-  },
-  {
     "compoundWord": "battlecruiser",
     "firstWord": "battle",
     "secondWord": "cruiser"
@@ -528,11 +518,6 @@
     "compoundWord": "battleship",
     "firstWord": "battle",
     "secondWord": "ship"
-  },
-  {
-    "compoundWord": "beachcomb",
-    "firstWord": "beach",
-    "secondWord": "comb"
   },
   {
     "compoundWord": "beachcomber",
@@ -653,16 +638,6 @@
     "compoundWord": "bellyache",
     "firstWord": "belly",
     "secondWord": "ache"
-  },
-  {
-    "compoundWord": "belong",
-    "firstWord": "be",
-    "secondWord": "long"
-  },
-  {
-    "compoundWord": "below",
-    "firstWord": "bel",
-    "secondWord": "ow"
   },
   {
     "compoundWord": "benchmark",
@@ -1350,11 +1325,6 @@
     "secondWord": "man"
   },
   {
-    "compoundWord": "centercut",
-    "firstWord": "center",
-    "secondWord": "cut"
-  },
-  {
     "compoundWord": "chairman",
     "firstWord": "chair",
     "secondWord": "man"
@@ -1580,9 +1550,9 @@
     "secondWord": "top"
   },
   {
-    "compoundWord": "cookwear",
+    "compoundWord": "cookware",
     "firstWord": "cook",
-    "secondWord": "wear"
+    "secondWord": "ware"
   },
   {
     "compoundWord": "copycat",
@@ -2095,11 +2065,6 @@
     "secondWord": "beat"
   },
   {
-    "compoundWord": "deadend",
-    "firstWord": "dead",
-    "secondWord": "end"
-  },
-  {
     "compoundWord": "deadline",
     "firstWord": "dead",
     "secondWord": "line"
@@ -2525,11 +2490,6 @@
     "secondWord": "ache"
   },
   {
-    "compoundWord": "eardrop",
-    "firstWord": "ear",
-    "secondWord": "drop"
-  },
-  {
     "compoundWord": "eardrum",
     "firstWord": "eard",
     "secondWord": "rum"
@@ -2728,11 +2688,6 @@
     "compoundWord": "eyebrow",
     "firstWord": "eye",
     "secondWord": "brow"
-  },
-  {
-    "compoundWord": "eyecatching",
-    "firstWord": "eye",
-    "secondWord": "catching"
   },
   {
     "compoundWord": "eyeglass",
@@ -3675,11 +3630,6 @@
     "secondWord": "work"
   },
   {
-    "compoundWord": "freebooter",
-    "firstWord": "freeboot",
-    "secondWord": "er"
-  },
-  {
     "compoundWord": "freedman",
     "firstWord": "freed",
     "secondWord": "man"
@@ -3860,11 +3810,6 @@
     "secondWord": "writer"
   },
   {
-    "compoundWord": "gingerale",
-    "firstWord": "ginge",
-    "secondWord": "rale"
-  },
-  {
     "compoundWord": "gingerbread",
     "firstWord": "ginger",
     "secondWord": "bread"
@@ -3943,11 +3888,6 @@
     "compoundWord": "goodbye",
     "firstWord": "good",
     "secondWord": "bye"
-  },
-  {
-    "compoundWord": "goodlooking",
-    "firstWord": "good",
-    "secondWord": "looking"
   },
   {
     "compoundWord": "goodnight",
@@ -4375,11 +4315,6 @@
     "secondWord": "way"
   },
   {
-    "compoundWord": "hamburger",
-    "firstWord": "ham",
-    "secondWord": "burger"
-  },
-  {
     "compoundWord": "hammerhead",
     "firstWord": "hammer",
     "secondWord": "head"
@@ -4633,11 +4568,6 @@
     "compoundWord": "haycock",
     "firstWord": "hay",
     "secondWord": "cock"
-  },
-  {
-    "compoundWord": "hayfever",
-    "firstWord": "hay",
-    "secondWord": "fever"
   },
   {
     "compoundWord": "hayfield",
@@ -5120,11 +5050,6 @@
     "secondWord": "jack"
   },
   {
-    "compoundWord": "hillbilly",
-    "firstWord": "hill",
-    "secondWord": "billy"
-  },
-  {
     "compoundWord": "hillside",
     "firstWord": "hill",
     "secondWord": "side"
@@ -5213,11 +5138,6 @@
     "compoundWord": "homecoming",
     "firstWord": "home",
     "secondWord": "coming"
-  },
-  {
-    "compoundWord": "homee",
-    "firstWord": "hom",
-    "secondWord": "ee"
   },
   {
     "compoundWord": "homeland",
@@ -5588,11 +5508,6 @@
     "compoundWord": "icefish",
     "firstWord": "ice",
     "secondWord": "fish"
-  },
-  {
-    "compoundWord": "iceland",
-    "firstWord": "ice",
-    "secondWord": "land"
   },
   {
     "compoundWord": "ideal",
@@ -6160,11 +6075,6 @@
     "secondWord": "way"
   },
   {
-    "compoundWord": "lefthanded",
-    "firstWord": "left",
-    "secondWord": "handed"
-  },
-  {
     "compoundWord": "leftovers",
     "firstWord": "left",
     "secondWord": "overs"
@@ -6325,9 +6235,9 @@
     "secondWord": "up"
   },
   {
-    "compoundWord": "lionheart",
+    "compoundWord": "lionhearted",
     "firstWord": "lion",
-    "secondWord": "heart"
+    "secondWord": "hearted"
   },
   {
     "compoundWord": "lipstick",
@@ -7770,11 +7680,6 @@
     "secondWord": "stretch"
   },
   {
-    "compoundWord": "outstretched",
-    "firstWord": "out",
-    "secondWord": "stretched"
-  },
-  {
     "compoundWord": "outstrip",
     "firstWord": "outs",
     "secondWord": "trip"
@@ -7810,16 +7715,6 @@
     "secondWord": "work"
   },
   {
-    "compoundWord": "overabound",
-    "firstWord": "over",
-    "secondWord": "abound"
-  },
-  {
-    "compoundWord": "overabundance",
-    "firstWord": "over",
-    "secondWord": "abundance"
-  },
-  {
     "compoundWord": "overabundant",
     "firstWord": "over",
     "secondWord": "abundant"
@@ -7840,19 +7735,9 @@
     "secondWord": "active"
   },
   {
-    "compoundWord": "overadorned",
-    "firstWord": "over",
-    "secondWord": "adorned"
-  },
-  {
     "compoundWord": "overage",
     "firstWord": "over",
     "secondWord": "age"
-  },
-  {
-    "compoundWord": "overaggressive",
-    "firstWord": "over",
-    "secondWord": "aggressive"
   },
   {
     "compoundWord": "overall",
@@ -7860,24 +7745,9 @@
     "secondWord": "all"
   },
   {
-    "compoundWord": "overambitious",
-    "firstWord": "over",
-    "secondWord": "ambitious"
-  },
-  {
     "compoundWord": "overanalyze",
     "firstWord": "over",
     "secondWord": "analyze"
-  },
-  {
-    "compoundWord": "overanxious",
-    "firstWord": "over",
-    "secondWord": "anxious"
-  },
-  {
-    "compoundWord": "overapprehensive",
-    "firstWord": "over",
-    "secondWord": "apprehensive"
   },
   {
     "compoundWord": "overarching",
@@ -7885,34 +7755,9 @@
     "secondWord": "arching"
   },
   {
-    "compoundWord": "overargumentative",
-    "firstWord": "over",
-    "secondWord": "argumentative"
-  },
-  {
     "compoundWord": "overarm",
     "firstWord": "over",
     "secondWord": "arm"
-  },
-  {
-    "compoundWord": "overassertive",
-    "firstWord": "over",
-    "secondWord": "assertive"
-  },
-  {
-    "compoundWord": "overassured",
-    "firstWord": "over",
-    "secondWord": "assured"
-  },
-  {
-    "compoundWord": "overattached",
-    "firstWord": "over",
-    "secondWord": "attached"
-  },
-  {
-    "compoundWord": "overattentive",
-    "firstWord": "over",
-    "secondWord": "attentive"
   },
   {
     "compoundWord": "overawe",
@@ -8000,16 +7845,6 @@
     "secondWord": "cast"
   },
   {
-    "compoundWord": "overcasual",
-    "firstWord": "over",
-    "secondWord": "casual"
-  },
-  {
-    "compoundWord": "overcautious",
-    "firstWord": "over",
-    "secondWord": "cautious"
-  },
-  {
     "compoundWord": "overcharge",
     "firstWord": "over",
     "secondWord": "charge"
@@ -8040,44 +7875,9 @@
     "secondWord": "compensate"
   },
   {
-    "compoundWord": "overcompetitive",
-    "firstWord": "over",
-    "secondWord": "competitive"
-  },
-  {
-    "compoundWord": "overcomplacency",
-    "firstWord": "over",
-    "secondWord": "complacency"
-  },
-  {
-    "compoundWord": "overcomplacent",
-    "firstWord": "over",
-    "secondWord": "complacent"
-  },
-  {
-    "compoundWord": "overconcern",
-    "firstWord": "over",
-    "secondWord": "concern"
-  },
-  {
     "compoundWord": "overconfident",
     "firstWord": "over",
     "secondWord": "confident"
-  },
-  {
-    "compoundWord": "overconscientious",
-    "firstWord": "over",
-    "secondWord": "conscientious"
-  },
-  {
-    "compoundWord": "overconservative",
-    "firstWord": "over",
-    "secondWord": "conservative"
-  },
-  {
-    "compoundWord": "overconsiderate",
-    "firstWord": "over",
-    "secondWord": "considerate"
   },
   {
     "compoundWord": "overcook",
@@ -8110,29 +7910,9 @@
     "secondWord": "decorate"
   },
   {
-    "compoundWord": "overdefensive",
-    "firstWord": "over",
-    "secondWord": "defensive"
-  },
-  {
-    "compoundWord": "overdelicate",
-    "firstWord": "over",
-    "secondWord": "delicate"
-  },
-  {
     "compoundWord": "overdependent",
     "firstWord": "over",
     "secondWord": "dependent"
-  },
-  {
-    "compoundWord": "overdesirous",
-    "firstWord": "over",
-    "secondWord": "desirous"
-  },
-  {
-    "compoundWord": "overdetailed",
-    "firstWord": "over",
-    "secondWord": "detailed"
   },
   {
     "compoundWord": "overdevelop",
@@ -8140,24 +7920,9 @@
     "secondWord": "develop"
   },
   {
-    "compoundWord": "overdiligent",
-    "firstWord": "over",
-    "secondWord": "diligent"
-  },
-  {
-    "compoundWord": "overdiversification",
-    "firstWord": "over",
-    "secondWord": "diversification"
-  },
-  {
     "compoundWord": "overdiversify",
     "firstWord": "over",
     "secondWord": "diversify"
-  },
-  {
-    "compoundWord": "overdiversity",
-    "firstWord": "over",
-    "secondWord": "diversity"
   },
   {
     "compoundWord": "overdo",
@@ -8415,16 +8180,6 @@
     "secondWord": "hang"
   },
   {
-    "compoundWord": "overhastily",
-    "firstWord": "over",
-    "secondWord": "hastily"
-  },
-  {
-    "compoundWord": "overhastiness",
-    "firstWord": "over",
-    "secondWord": "hastiness"
-  },
-  {
     "compoundWord": "overhasty",
     "firstWord": "over",
     "secondWord": "hasty"
@@ -8515,11 +8270,6 @@
     "secondWord": "intellectual"
   },
   {
-    "compoundWord": "overintense",
-    "firstWord": "over",
-    "secondWord": "intense"
-  },
-  {
     "compoundWord": "overinterest",
     "firstWord": "over",
     "secondWord": "interest"
@@ -8558,11 +8308,6 @@
     "compoundWord": "overlarge",
     "firstWord": "over",
     "secondWord": "large"
-  },
-  {
-    "compoundWord": "overlavish",
-    "firstWord": "over",
-    "secondWord": "lavish"
   },
   {
     "compoundWord": "overlay",
@@ -8628,11 +8373,6 @@
     "compoundWord": "overmodest",
     "firstWord": "over",
     "secondWord": "modest"
-  },
-  {
-    "compoundWord": "overmodify",
-    "firstWord": "over",
-    "secondWord": "modify"
   },
   {
     "compoundWord": "overmuch",
@@ -8735,11 +8475,6 @@
     "secondWord": "prominent"
   },
   {
-    "compoundWord": "overprompt",
-    "firstWord": "over",
-    "secondWord": "prompt"
-  },
-  {
     "compoundWord": "overproportion",
     "firstWord": "over",
     "secondWord": "proportion"
@@ -8825,11 +8560,6 @@
     "secondWord": "salt"
   },
   {
-    "compoundWord": "overscrupulous",
-    "firstWord": "over",
-    "secondWord": "scrupulous"
-  },
-  {
     "compoundWord": "overseas",
     "firstWord": "over",
     "secondWord": "seas"
@@ -8855,11 +8585,6 @@
     "secondWord": "sensitive"
   },
   {
-    "compoundWord": "oversevere",
-    "firstWord": "over",
-    "secondWord": "severe"
-  },
-  {
     "compoundWord": "oversexed",
     "firstWord": "overs",
     "secondWord": "exed"
@@ -8868,11 +8593,6 @@
     "compoundWord": "overshadow",
     "firstWord": "over",
     "secondWord": "shadow"
-  },
-  {
-    "compoundWord": "oversharp",
-    "firstWord": "overs",
-    "secondWord": "harp"
   },
   {
     "compoundWord": "overshoe",
@@ -8918,11 +8638,6 @@
     "compoundWord": "oversolicitous",
     "firstWord": "over",
     "secondWord": "solicitous"
-  },
-  {
-    "compoundWord": "oversophisticated",
-    "firstWord": "over",
-    "secondWord": "sophisticated"
   },
   {
     "compoundWord": "oversparing",
@@ -9005,11 +8720,6 @@
     "secondWord": "subtle"
   },
   {
-    "compoundWord": "oversubtlety",
-    "firstWord": "over",
-    "secondWord": "subtlety"
-  },
-  {
     "compoundWord": "oversupply",
     "firstWord": "over",
     "secondWord": "supply"
@@ -9018,11 +8728,6 @@
     "compoundWord": "oversuspicious",
     "firstWord": "over",
     "secondWord": "suspicious"
-  },
-  {
-    "compoundWord": "oversystematic",
-    "firstWord": "over",
-    "secondWord": "systematic"
   },
   {
     "compoundWord": "overtake",
@@ -9338,16 +9043,6 @@
     "compoundWord": "peanut",
     "firstWord": "pea",
     "secondWord": "nut"
-  },
-  {
-    "compoundWord": "peanutbutter",
-    "firstWord": "peanut",
-    "secondWord": "butter"
-  },
-  {
-    "compoundWord": "peapod",
-    "firstWord": "pea",
-    "secondWord": "pod"
   },
   {
     "compoundWord": "peephole",
@@ -9685,11 +9380,6 @@
     "secondWord": "corn"
   },
   {
-    "compoundWord": "popeyed",
-    "firstWord": "pop",
-    "secondWord": "eyed"
-  },
-  {
     "compoundWord": "popgun",
     "firstWord": "pop",
     "secondWord": "gun"
@@ -9703,11 +9393,6 @@
     "compoundWord": "poppycock",
     "firstWord": "poppy",
     "secondWord": "cock"
-  },
-  {
-    "compoundWord": "portend",
-    "firstWord": "port",
-    "secondWord": "end"
   },
   {
     "compoundWord": "porterhouse",
@@ -10083,11 +9768,6 @@
     "compoundWord": "rhinestone",
     "firstWord": "rhine",
     "secondWord": "stone"
-  },
-  {
-    "compoundWord": "righthanded",
-    "firstWord": "right",
-    "secondWord": "handed"
   },
   {
     "compoundWord": "rightwing",
@@ -10630,11 +10310,6 @@
     "secondWord": "port"
   },
   {
-    "compoundWord": "searchengine",
-    "firstWord": "search",
-    "secondWord": "engine"
-  },
-  {
     "compoundWord": "searchlight",
     "firstWord": "search",
     "secondWord": "light"
@@ -10725,11 +10400,6 @@
     "secondWord": "back"
   },
   {
-    "compoundWord": "shadyside",
-    "firstWord": "shady",
-    "secondWord": "side"
-  },
-  {
     "compoundWord": "shakedown",
     "firstWord": "shake",
     "secondWord": "down"
@@ -10783,11 +10453,6 @@
     "compoundWord": "shipboard",
     "firstWord": "ship",
     "secondWord": "board"
-  },
-  {
-    "compoundWord": "shipbottom",
-    "firstWord": "ship",
-    "secondWord": "bottom"
   },
   {
     "compoundWord": "shipbuilding",
@@ -11430,11 +11095,6 @@
     "secondWord": "bean"
   },
   {
-    "compoundWord": "soysauce",
-    "firstWord": "soy",
-    "secondWord": "sauce"
-  },
-  {
     "compoundWord": "spacecraft",
     "firstWord": "space",
     "secondWord": "craft"
@@ -11898,11 +11558,6 @@
     "compoundWord": "stronghold",
     "firstWord": "strong",
     "secondWord": "hold"
-  },
-  {
-    "compoundWord": "submachinegun",
-    "firstWord": "sub",
-    "secondWord": "machinegun"
   },
   {
     "compoundWord": "subway",
@@ -12700,11 +12355,6 @@
     "secondWord": "shower"
   },
   {
-    "compoundWord": "thunderstone",
-    "firstWord": "thunder",
-    "secondWord": "stone"
-  },
-  {
     "compoundWord": "thunderstorm",
     "firstWord": "thunder",
     "secondWord": "storm"
@@ -12923,11 +12573,6 @@
     "compoundWord": "topflight",
     "firstWord": "top",
     "secondWord": "flight"
-  },
-  {
-    "compoundWord": "tophat",
-    "firstWord": "top",
-    "secondWord": "hat"
   },
   {
     "compoundWord": "topknot",
@@ -13245,24 +12890,9 @@
     "secondWord": "charge"
   },
   {
-    "compoundWord": "underclad",
-    "firstWord": "under",
-    "secondWord": "clad"
-  },
-  {
     "compoundWord": "underclassman",
     "firstWord": "under",
     "secondWord": "classman"
-  },
-  {
-    "compoundWord": "underclerk",
-    "firstWord": "under",
-    "secondWord": "clerk"
-  },
-  {
-    "compoundWord": "underclothed",
-    "firstWord": "under",
-    "secondWord": "clothed"
   },
   {
     "compoundWord": "underclothes",
@@ -14113,11 +13743,6 @@
     "compoundWord": "warlike",
     "firstWord": "war",
     "secondWord": "like"
-  },
-  {
-    "compoundWord": "warlock",
-    "firstWord": "war",
-    "secondWord": "lock"
   },
   {
     "compoundWord": "warlord",
