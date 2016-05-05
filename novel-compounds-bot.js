@@ -30,7 +30,7 @@ else {
 }
 
 // Load corpora.
-var compoundWords         = require('./data/compound-words-processed.json');
+var compoundWords         = require('./data/compound-words-canonical.json');
 var numberOfCompoundWords = Object.keys(compoundWords).length;
 
 // Make new compound and tweet it.
