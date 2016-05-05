@@ -1,5 +1,10 @@
 'use strict';
 
+// This works, but not for all words. Because I want the corpus to be valuable,
+// I've gone through and corrected it by hand. The flawed corpus is at
+// compound-words-flawed.json, and the corrected corpus that I actually use is
+// at compound-words.json.
+
 // Load libraries.
 var _        = require('underscore');
 var jsonfile = require('jsonfile');
@@ -9,7 +14,7 @@ var compoundWords = require('./data/compound-words-raw.json'),
     everyWord     = require('./node_modules/word-list-json/words.json').words;
 
 // The file to which to write split compounds.
-var wordsFile = './data/compound-words-processed.json';
+var wordsFile = './data/compound-words-processed-automatically.json';
 
 // Say we're starting.
 console.log('\nSplitting compounds…\n\n---\n');

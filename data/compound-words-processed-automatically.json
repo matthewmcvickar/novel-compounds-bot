@@ -85,11 +85,6 @@
     "secondWord": "line"
   },
   {
-    "compoundWord": "airliner",
-    "firstWord": "air",
-    "secondWord": "liner"
-  },
-  {
     "compoundWord": "airman",
     "firstWord": "air",
     "secondWord": "man"
@@ -230,11 +225,6 @@
     "secondWord": "tray"
   },
   {
-    "compoundWord": "authorship",
-    "firstWord": "author",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "awestruck",
     "firstWord": "awes",
     "secondWord": "truck"
@@ -363,11 +353,6 @@
     "compoundWord": "backtrack",
     "firstWord": "back",
     "secondWord": "track"
-  },
-  {
-    "compoundWord": "backward",
-    "firstWord": "back",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "backwash",
@@ -555,11 +540,6 @@
     "secondWord": "clothes"
   },
   {
-    "compoundWord": "bedridden",
-    "firstWord": "bedrid",
-    "secondWord": "den"
-  },
-  {
     "compoundWord": "bedrock",
     "firstWord": "bed",
     "secondWord": "rock"
@@ -643,11 +623,6 @@
     "compoundWord": "benchmark",
     "firstWord": "bench",
     "secondWord": "mark"
-  },
-  {
-    "compoundWord": "beside",
-    "firstWord": "bes",
-    "secondWord": "ide"
   },
   {
     "compoundWord": "billboard",
@@ -875,11 +850,6 @@
     "secondWord": "trap"
   },
   {
-    "compoundWord": "bowlegged",
-    "firstWord": "bowl",
-    "secondWord": "egged"
-  },
-  {
     "compoundWord": "bowtie",
     "firstWord": "bow",
     "secondWord": "tie"
@@ -1045,11 +1015,6 @@
     "secondWord": "tooth"
   },
   {
-    "compoundWord": "bucktoothed",
-    "firstWord": "buck",
-    "secondWord": "toothed"
-  },
-  {
     "compoundWord": "bugbear",
     "firstWord": "bug",
     "secondWord": "bear"
@@ -1078,11 +1043,6 @@
     "compoundWord": "bullfrog",
     "firstWord": "bull",
     "secondWord": "frog"
-  },
-  {
-    "compoundWord": "bullheaded",
-    "firstWord": "bull",
-    "secondWord": "headed"
   },
   {
     "compoundWord": "bullpen",
@@ -1335,11 +1295,6 @@
     "secondWord": "woman"
   },
   {
-    "compoundWord": "championship",
-    "firstWord": "champion",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "cheapskate",
     "firstWord": "cheap",
     "secondWord": "skate"
@@ -1425,11 +1380,6 @@
     "secondWord": "tick"
   },
   {
-    "compoundWord": "citizenship",
-    "firstWord": "citizen",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "clapboard",
     "firstWord": "clap",
     "secondWord": "board"
@@ -1498,11 +1448,6 @@
     "compoundWord": "coldframe",
     "firstWord": "cold",
     "secondWord": "frame"
-  },
-  {
-    "compoundWord": "coldhearted",
-    "firstWord": "cold",
-    "secondWord": "hearted"
   },
   {
     "compoundWord": "coldsore",
@@ -1728,11 +1673,6 @@
     "compoundWord": "courthouse",
     "firstWord": "court",
     "secondWord": "house"
-  },
-  {
-    "compoundWord": "courtship",
-    "firstWord": "court",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "courtyard",
@@ -2255,11 +2195,6 @@
     "secondWord": "grade"
   },
   {
-    "compoundWord": "downhearted",
-    "firstWord": "down",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "downhill",
     "firstWord": "down",
     "secondWord": "hill"
@@ -2358,11 +2293,6 @@
     "compoundWord": "downunder",
     "firstWord": "down",
     "secondWord": "under"
-  },
-  {
-    "compoundWord": "downward",
-    "firstWord": "down",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "downwind",
@@ -2540,11 +2470,6 @@
     "secondWord": "quake"
   },
   {
-    "compoundWord": "earthward",
-    "firstWord": "earth",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "earthwork",
     "firstWord": "earth",
     "secondWord": "work"
@@ -2563,11 +2488,6 @@
     "compoundWord": "earwig",
     "firstWord": "ear",
     "secondWord": "wig"
-  },
-  {
-    "compoundWord": "eastward",
-    "firstWord": "east",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "eavesdrop",
@@ -2785,11 +2705,6 @@
     "secondWord": "seeing"
   },
   {
-    "compoundWord": "farsighted",
-    "firstWord": "far",
-    "secondWord": "sighted"
-  },
-  {
     "compoundWord": "fatback",
     "firstWord": "fat",
     "secondWord": "back"
@@ -2818,11 +2733,6 @@
     "compoundWord": "feedback",
     "firstWord": "feed",
     "secondWord": "back"
-  },
-  {
-    "compoundWord": "fellowship",
-    "firstWord": "fellow",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "fiberboard",
@@ -2948,11 +2858,6 @@
     "compoundWord": "fireproof",
     "firstWord": "fire",
     "secondWord": "proof"
-  },
-  {
-    "compoundWord": "fireproofed",
-    "firstWord": "fire",
-    "secondWord": "proofed"
   },
   {
     "compoundWord": "fireside",
@@ -3685,11 +3590,6 @@
     "secondWord": "work"
   },
   {
-    "compoundWord": "friendship",
-    "firstWord": "friend",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "frogman",
     "firstWord": "frog",
     "secondWord": "man"
@@ -4290,16 +4190,6 @@
     "secondWord": "back"
   },
   {
-    "compoundWord": "halfbreed",
-    "firstWord": "half",
-    "secondWord": "breed"
-  },
-  {
-    "compoundWord": "halfhearted",
-    "firstWord": "half",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "halfway",
     "firstWord": "half",
     "secondWord": "way"
@@ -4505,24 +4395,9 @@
     "secondWord": "over"
   },
   {
-    "compoundWord": "hardheaded",
-    "firstWord": "hard",
-    "secondWord": "headed"
-  },
-  {
-    "compoundWord": "hardhearted",
-    "firstWord": "hard",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "hardpan",
     "firstWord": "hard",
     "secondWord": "pan"
-  },
-  {
-    "compoundWord": "hardship",
-    "firstWord": "hard",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "hardtack",
@@ -4970,11 +4845,6 @@
     "secondWord": "ground"
   },
   {
-    "compoundWord": "highhanded",
-    "firstWord": "high",
-    "secondWord": "handed"
-  },
-  {
     "compoundWord": "highjack",
     "firstWord": "high",
     "secondWord": "jack"
@@ -5190,11 +5060,6 @@
     "secondWord": "town"
   },
   {
-    "compoundWord": "homeward",
-    "firstWord": "home",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "homework",
     "firstWord": "home",
     "secondWord": "work"
@@ -5280,11 +5145,6 @@
     "secondWord": "man"
   },
   {
-    "compoundWord": "horsemanship",
-    "firstWord": "horseman",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "horseplay",
     "firstWord": "horse",
     "secondWord": "play"
@@ -5323,11 +5183,6 @@
     "compoundWord": "hothead",
     "firstWord": "hot",
     "secondWord": "head"
-  },
-  {
-    "compoundWord": "hotheaded",
-    "firstWord": "hot",
-    "secondWord": "headed"
   },
   {
     "compoundWord": "hothouse",
@@ -5625,11 +5480,6 @@
     "secondWord": "voice"
   },
   {
-    "compoundWord": "inward",
-    "firstWord": "in",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "ironbound",
     "firstWord": "iron",
     "secondWord": "bound"
@@ -5845,11 +5695,6 @@
     "secondWord": "joy"
   },
   {
-    "compoundWord": "kindhearted",
-    "firstWord": "kind",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "kingfisher",
     "firstWord": "king",
     "secondWord": "fisher"
@@ -5863,11 +5708,6 @@
     "compoundWord": "kinsfolk",
     "firstWord": "kins",
     "secondWord": "folk"
-  },
-  {
-    "compoundWord": "kinship",
-    "firstWord": "kins",
-    "secondWord": "hip"
   },
   {
     "compoundWord": "kinsman",
@@ -5985,11 +5825,6 @@
     "secondWord": "slide"
   },
   {
-    "compoundWord": "landward",
-    "firstWord": "land",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "lapwing",
     "firstWord": "lap",
     "secondWord": "wing"
@@ -6045,11 +5880,6 @@
     "secondWord": "over"
   },
   {
-    "compoundWord": "leadership",
-    "firstWord": "leader",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "leapfrog",
     "firstWord": "leap",
     "secondWord": "frog"
@@ -6063,11 +5893,6 @@
     "compoundWord": "leatherneck",
     "firstWord": "leather",
     "secondWord": "neck"
-  },
-  {
-    "compoundWord": "leeward",
-    "firstWord": "lee",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "leeway",
@@ -6103,11 +5928,6 @@
     "compoundWord": "letterpress",
     "firstWord": "letter",
     "secondWord": "press"
-  },
-  {
-    "compoundWord": "levelheaded",
-    "firstWord": "level",
-    "secondWord": "headed"
   },
   {
     "compoundWord": "lifeblood",
@@ -6170,16 +5990,6 @@
     "secondWord": "face"
   },
   {
-    "compoundWord": "lightheaded",
-    "firstWord": "light",
-    "secondWord": "headed"
-  },
-  {
-    "compoundWord": "lighthearted",
-    "firstWord": "light",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "lighthouse",
     "firstWord": "light",
     "secondWord": "house"
@@ -6233,11 +6043,6 @@
     "compoundWord": "lineup",
     "firstWord": "line",
     "secondWord": "up"
-  },
-  {
-    "compoundWord": "lionhearted",
-    "firstWord": "lion",
-    "secondWord": "hearted"
   },
   {
     "compoundWord": "lipstick",
@@ -6338,16 +6143,6 @@
     "compoundWord": "loophole",
     "firstWord": "loop",
     "secondWord": "hole"
-  },
-  {
-    "compoundWord": "lopsided",
-    "firstWord": "lop",
-    "secondWord": "sided"
-  },
-  {
-    "compoundWord": "lordship",
-    "firstWord": "lord",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "loudmouth",
@@ -6870,11 +6665,6 @@
     "secondWord": "by"
   },
   {
-    "compoundWord": "nearsighted",
-    "firstWord": "near",
-    "secondWord": "sighted"
-  },
-  {
     "compoundWord": "neckline",
     "firstWord": "neck",
     "secondWord": "line"
@@ -7110,11 +6900,6 @@
     "secondWord": "east"
   },
   {
-    "compoundWord": "northward",
-    "firstWord": "north",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "northwest",
     "firstWord": "north",
     "secondWord": "west"
@@ -7323,16 +7108,6 @@
     "compoundWord": "onto",
     "firstWord": "on",
     "secondWord": "to"
-  },
-  {
-    "compoundWord": "onward",
-    "firstWord": "on",
-    "secondWord": "ward"
-  },
-  {
-    "compoundWord": "openhanded",
-    "firstWord": "open",
-    "secondWord": "handed"
   },
   {
     "compoundWord": "openwork",
@@ -7690,11 +7465,6 @@
     "secondWord": "take"
   },
   {
-    "compoundWord": "outward",
-    "firstWord": "out",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "outwear",
     "firstWord": "out",
     "secondWord": "wear"
@@ -7805,19 +7575,14 @@
     "secondWord": "bold"
   },
   {
-    "compoundWord": "overbooked",
+    "compoundWord": "overbook",
     "firstWord": "over",
-    "secondWord": "booked"
+    "secondWord": "book"
   },
   {
     "compoundWord": "overburden",
     "firstWord": "over",
     "secondWord": "burden"
-  },
-  {
-    "compoundWord": "overburdensome",
-    "firstWord": "over",
-    "secondWord": "burdensome"
   },
   {
     "compoundWord": "overbuy",
@@ -7955,11 +7720,6 @@
     "secondWord": "dress"
   },
   {
-    "compoundWord": "overdressed",
-    "firstWord": "over",
-    "secondWord": "dressed"
-  },
-  {
     "compoundWord": "overdrink",
     "firstWord": "over",
     "secondWord": "drink"
@@ -8080,11 +7840,6 @@
     "secondWord": "expose"
   },
   {
-    "compoundWord": "overexposed",
-    "firstWord": "over",
-    "secondWord": "exposed"
-  },
-  {
     "compoundWord": "overextend",
     "firstWord": "over",
     "secondWord": "extend"
@@ -8203,11 +7958,6 @@
     "compoundWord": "overheat",
     "firstWord": "over",
     "secondWord": "heat"
-  },
-  {
-    "compoundWord": "overhurried",
-    "firstWord": "over",
-    "secondWord": "hurried"
   },
   {
     "compoundWord": "overidealistic",
@@ -8695,19 +8445,14 @@
     "secondWord": "stretch"
   },
   {
-    "compoundWord": "overstretched",
-    "firstWord": "over",
-    "secondWord": "stretched"
-  },
-  {
     "compoundWord": "overstrict",
     "firstWord": "over",
     "secondWord": "strict"
   },
   {
-    "compoundWord": "overstuffed",
-    "firstWord": "over",
-    "secondWord": "stuffed"
+    "compoundWord": "overstuff",
+    "firstWord": "overs",
+    "secondWord": "tuff"
   },
   {
     "compoundWord": "oversubscribe",
@@ -8738,11 +8483,6 @@
     "compoundWord": "overtax",
     "firstWord": "over",
     "secondWord": "tax"
-  },
-  {
-    "compoundWord": "overtaxed",
-    "firstWord": "overt",
-    "secondWord": "axed"
   },
   {
     "compoundWord": "overtechnical",
@@ -8920,11 +8660,6 @@
     "secondWord": "way"
   },
   {
-    "compoundWord": "partnership",
-    "firstWord": "partner",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "passageway",
     "firstWord": "passage",
     "secondWord": "way"
@@ -9065,11 +8800,6 @@
     "secondWord": "man"
   },
   {
-    "compoundWord": "penmanship",
-    "firstWord": "penman",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "pennyroyal",
     "firstWord": "penny",
     "secondWord": "royal"
@@ -9123,11 +8853,6 @@
     "compoundWord": "piggyback",
     "firstWord": "piggy",
     "secondWord": "back"
-  },
-  {
-    "compoundWord": "pigheaded",
-    "firstWord": "pig",
-    "secondWord": "headed"
   },
   {
     "compoundWord": "pigpen",
@@ -9680,19 +9405,9 @@
     "secondWord": "trap"
   },
   {
-    "compoundWord": "rawboned",
-    "firstWord": "raw",
-    "secondWord": "boned"
-  },
-  {
     "compoundWord": "rawhide",
     "firstWord": "raw",
     "secondWord": "hide"
-  },
-  {
-    "compoundWord": "readywitted",
-    "firstWord": "ready",
-    "secondWord": "witted"
   },
   {
     "compoundWord": "rearmost",
@@ -9703,11 +9418,6 @@
     "compoundWord": "rearrange",
     "firstWord": "rear",
     "secondWord": "range"
-  },
-  {
-    "compoundWord": "rearward",
-    "firstWord": "rear",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "redcap",
@@ -10135,11 +9845,6 @@
     "secondWord": "brain"
   },
   {
-    "compoundWord": "scholarship",
-    "firstWord": "scholar",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "schoolbook",
     "firstWord": "school",
     "secondWord": "book"
@@ -10295,11 +10000,6 @@
     "secondWord": "man"
   },
   {
-    "compoundWord": "seamanship",
-    "firstWord": "seaman",
-    "secondWord": "ship"
-  },
-  {
     "compoundWord": "seaplane",
     "firstWord": "sea",
     "secondWord": "plane"
@@ -10360,11 +10060,6 @@
     "secondWord": "wall"
   },
   {
-    "compoundWord": "seaward",
-    "firstWord": "sea",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "seaway",
     "firstWord": "sea",
     "secondWord": "way"
@@ -10408,11 +10103,6 @@
     "compoundWord": "shakeup",
     "firstWord": "shake",
     "secondWord": "up"
-  },
-  {
-    "compoundWord": "shamefaced",
-    "firstWord": "shame",
-    "secondWord": "faced"
   },
   {
     "compoundWord": "sharecropper",
@@ -10548,16 +10238,6 @@
     "compoundWord": "shorthand",
     "firstWord": "short",
     "secondWord": "hand"
-  },
-  {
-    "compoundWord": "shorthanded",
-    "firstWord": "short",
-    "secondWord": "handed"
-  },
-  {
-    "compoundWord": "shortsighted",
-    "firstWord": "short",
-    "secondWord": "sighted"
   },
   {
     "compoundWord": "shortstop",
@@ -10795,11 +10475,6 @@
     "secondWord": "scraper"
   },
   {
-    "compoundWord": "skyward",
-    "firstWord": "sky",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "skywriting",
     "firstWord": "sky",
     "secondWord": "writing"
@@ -10980,11 +10655,6 @@
     "secondWord": "storm"
   },
   {
-    "compoundWord": "snubnosed",
-    "firstWord": "snub",
-    "secondWord": "nosed"
-  },
-  {
     "compoundWord": "soapstone",
     "firstWord": "soaps",
     "secondWord": "tone"
@@ -11078,11 +10748,6 @@
     "compoundWord": "southeast",
     "firstWord": "south",
     "secondWord": "east"
-  },
-  {
-    "compoundWord": "southward",
-    "firstWord": "south",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "southwest",
@@ -11193,11 +10858,6 @@
     "compoundWord": "sportsman",
     "firstWord": "sports",
     "secondWord": "man"
-  },
-  {
-    "compoundWord": "sportsmanship",
-    "firstWord": "sportsman",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "sportswear",
@@ -11455,11 +11115,6 @@
     "secondWord": "teller"
   },
   {
-    "compoundWord": "stouthearted",
-    "firstWord": "stout",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "stovepipe",
     "firstWord": "stove",
     "secondWord": "pipe"
@@ -11488,11 +11143,6 @@
     "compoundWord": "streamline",
     "firstWord": "stream",
     "secondWord": "line"
-  },
-  {
-    "compoundWord": "streamlined",
-    "firstWord": "stream",
-    "secondWord": "lined"
   },
   {
     "compoundWord": "streetcar",
@@ -11540,9 +11190,9 @@
     "secondWord": "time"
   },
   {
-    "compoundWord": "sunbaked",
+    "compoundWord": "sunbake",
     "firstWord": "sun",
-    "secondWord": "baked"
+    "secondWord": "bake"
   },
   {
     "compoundWord": "sunbathe",
@@ -11653,11 +11303,6 @@
     "compoundWord": "supercharge",
     "firstWord": "super",
     "secondWord": "charge"
-  },
-  {
-    "compoundWord": "supercharged",
-    "firstWord": "super",
-    "secondWord": "charged"
   },
   {
     "compoundWord": "supercollider",
@@ -12090,11 +11735,6 @@
     "secondWord": "foot"
   },
   {
-    "compoundWord": "tenderhearted",
-    "firstWord": "tender",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "tenderloin",
     "firstWord": "tender",
     "secondWord": "loin"
@@ -12335,16 +11975,6 @@
     "secondWord": "water"
   },
   {
-    "compoundWord": "tightfisted",
-    "firstWord": "tight",
-    "secondWord": "fisted"
-  },
-  {
-    "compoundWord": "tightlipped",
-    "firstWord": "tight",
-    "secondWord": "lipped"
-  },
-  {
     "compoundWord": "tightrope",
     "firstWord": "tight",
     "secondWord": "rope"
@@ -12578,11 +12208,6 @@
     "compoundWord": "touchstone",
     "firstWord": "touch",
     "secondWord": "stone"
-  },
-  {
-    "compoundWord": "township",
-    "firstWord": "town",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "townsman",
@@ -12885,11 +12510,6 @@
     "secondWord": "develop"
   },
   {
-    "compoundWord": "underdeveloped",
-    "firstWord": "under",
-    "secondWord": "developed"
-  },
-  {
     "compoundWord": "underdog",
     "firstWord": "under",
     "secondWord": "dog"
@@ -12910,9 +12530,9 @@
     "secondWord": "dress"
   },
   {
-    "compoundWord": "undereducated",
+    "compoundWord": "undereducate",
     "firstWord": "under",
-    "secondWord": "educated"
+    "secondWord": "educate"
   },
   {
     "compoundWord": "underemphasize",
@@ -12990,11 +12610,6 @@
     "secondWord": "hand"
   },
   {
-    "compoundWord": "underhanded",
-    "firstWord": "under",
-    "secondWord": "handed"
-  },
-  {
     "compoundWord": "underlayer",
     "firstWord": "under",
     "secondWord": "layer"
@@ -13018,11 +12633,6 @@
     "compoundWord": "underlying",
     "firstWord": "under",
     "secondWord": "lying"
-  },
-  {
-    "compoundWord": "undermentioned",
-    "firstWord": "under",
-    "secondWord": "mentioned"
   },
   {
     "compoundWord": "undermine",
@@ -13170,14 +12780,9 @@
     "secondWord": "side"
   },
   {
-    "compoundWord": "undersigned",
+    "compoundWord": "undersize",
     "firstWord": "under",
-    "secondWord": "signed"
-  },
-  {
-    "compoundWord": "undersized",
-    "firstWord": "under",
-    "secondWord": "sized"
+    "secondWord": "size"
   },
   {
     "compoundWord": "underskirt",
@@ -13205,19 +12810,9 @@
     "secondWord": "stand"
   },
   {
-    "compoundWord": "understanding",
-    "firstWord": "under",
-    "secondWord": "standing"
-  },
-  {
     "compoundWord": "understate",
     "firstWord": "under",
     "secondWord": "state"
-  },
-  {
-    "compoundWord": "understated",
-    "firstWord": "under",
-    "secondWord": "stated"
   },
   {
     "compoundWord": "understood",
@@ -13270,9 +12865,9 @@
     "secondWord": "tow"
   },
   {
-    "compoundWord": "undertrained",
+    "compoundWord": "undertrain",
     "firstWord": "under",
-    "secondWord": "trained"
+    "secondWord": "train"
   },
   {
     "compoundWord": "undervalue",
@@ -13550,11 +13145,6 @@
     "secondWord": "turn"
   },
   {
-    "compoundWord": "upward",
-    "firstWord": "up",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "upwelling",
     "firstWord": "upwell",
     "secondWord": "ing"
@@ -13645,11 +13235,6 @@
     "secondWord": "eye"
   },
   {
-    "compoundWord": "walleyed",
-    "firstWord": "wall",
-    "secondWord": "eyed"
-  },
-  {
     "compoundWord": "wallflower",
     "firstWord": "wall",
     "secondWord": "flower"
@@ -13668,11 +13253,6 @@
     "compoundWord": "wardroom",
     "firstWord": "ward",
     "secondWord": "room"
-  },
-  {
-    "compoundWord": "wardship",
-    "firstWord": "ward",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "warehouse",
@@ -13698,11 +13278,6 @@
     "compoundWord": "warlord",
     "firstWord": "war",
     "secondWord": "lord"
-  },
-  {
-    "compoundWord": "warmblooded",
-    "firstWord": "warm",
-    "secondWord": "blooded"
   },
   {
     "compoundWord": "warmup",
@@ -13980,11 +13555,6 @@
     "secondWord": "ide"
   },
   {
-    "compoundWord": "wayward",
-    "firstWord": "way",
-    "secondWord": "ward"
-  },
-  {
     "compoundWord": "weakfish",
     "firstWord": "weak",
     "secondWord": "fish"
@@ -14043,11 +13613,6 @@
     "compoundWord": "weightlifting",
     "firstWord": "weight",
     "secondWord": "lifting"
-  },
-  {
-    "compoundWord": "westward",
-    "firstWord": "west",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "wetland",
@@ -14210,11 +13775,6 @@
     "secondWord": "ever"
   },
   {
-    "compoundWord": "wholehearted",
-    "firstWord": "whole",
-    "secondWord": "hearted"
-  },
-  {
     "compoundWord": "wholesale",
     "firstWord": "whole",
     "secondWord": "sale"
@@ -14328,11 +13888,6 @@
     "compoundWord": "windswept",
     "firstWord": "winds",
     "secondWord": "wept"
-  },
-  {
-    "compoundWord": "windward",
-    "firstWord": "wind",
-    "secondWord": "ward"
   },
   {
     "compoundWord": "wingspan",
@@ -14548,11 +14103,6 @@
     "compoundWord": "workmanlike",
     "firstWord": "workman",
     "secondWord": "like"
-  },
-  {
-    "compoundWord": "workmanship",
-    "firstWord": "workman",
-    "secondWord": "ship"
   },
   {
     "compoundWord": "workout",
