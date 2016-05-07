@@ -84,19 +84,25 @@ function getRelatedWord (word, relationship) {
         console.log(error);
       }
 
-      var relatedWordsData = JSON.parse(body);
-
-      if (relatedWordsData.length > 0) {
-
-        var relatedWords = relatedWordsData[0].words.map(isAllowedWord),
-            relatedWord  = relatedWords[_.random(0, relatedWords.length - 1)];
-
-        console.log('New synonym for ' + word + ': ' + relatedWord);
-
-        resolve(relatedWord);
-      }
-      else {
+      else if (body === '') {
         resolve(undefined);
+      }
+
+      else {
+        var relatedWordsData = JSON.parse(body);
+
+        if (relatedWordsData.length) {
+
+          var relatedWords = relatedWordsData[0].words.map(isAllowedWord),
+              relatedWord  = relatedWords[_.random(0, relatedWords.length - 1)];
+
+          console.log('New synonym for ' + word + ': ' + relatedWord);
+
+          resolve(relatedWord);
+        }
+        else {
+          resolve(undefined);
+        }
       }
     });
 
