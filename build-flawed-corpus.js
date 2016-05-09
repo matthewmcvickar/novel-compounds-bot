@@ -43,15 +43,24 @@ function splitCompounds (compoundWord) {
   // To find a more accurate split point for the compound word, and to do it
   // faster, split it first in the middle and then 'spiral' outwards. E.g.:
   //
-  //     - apple/sauce
-  //     - airp/lane, air/plane
-  //     - headmi/stress, headm/istress, headmis/tress, head/mistress
+  //                   +-------+
+  //                   |       |
+  //     d   o   g / c / a / t / c   h   e   r
+  //               |   |   |   |
+  //               |   +---+   |
+  //               +-----------+
   //
-  // The order of split point placement for the word 'dogcatcher' would look
-  // like this:
+  //     1. dogca / tcher [failure]
+  //     2. dogc / atcher [failure]
+  //     3. dogcat / cher [failure]
+  //     4. dog / catcher [success]
+  //
+  // So the order of split point placement for the word 'dogcatcher' is:
   //
   //     d / o / g / c / a / t / c / h / e / r
   //       8   6   4   2   1   3   5   7   9
+  //
+  // (It stops at attempt 4, having found two segments that are both words.)
 
   for (var i = 0; i < compoundWordLength/2; i++) {
 
