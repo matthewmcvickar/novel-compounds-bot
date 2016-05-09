@@ -2,8 +2,8 @@
 
 // This works, but not for all words. Because I want the corpus to be valuable,
 // I've gone through and corrected it by hand. The flawed corpus is at
-// compound-words-flawed.json, and the corrected corpus that I actually use is
-// at compound-words.json.
+// compound-words-processed-automatically.json, and the corrected corpus that I
+// actually use is at compound-words-canonical.json.
 
 // Load libraries.
 var _        = require('underscore');
@@ -51,7 +51,7 @@ function splitCompounds (compoundWord) {
   // like this:
   //
   //     d / o / g / c / a / t / c / h / e / r
-  //       7   5   3   1   0   2   4   6   8
+  //       8   6   4   2   1   3   5   7   9
 
   for (var i = 0; i < compoundWordLength/2; i++) {
 
