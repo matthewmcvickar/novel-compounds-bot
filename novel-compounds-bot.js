@@ -124,9 +124,9 @@ function synonymizeWords (wordData) {
 function makeNewCompound (wordData) {
   // If neither word has a synonym, we can't make a new compound, so give up and
   // try again.
-  if (wordData.firstWordSynonym === undefined &&
-    wordData.secondWordSynonym === undefined) {
-    throw('No synonyms. Start again.');
+  if (wordData.firstWordSynonym  === undefined &&
+      wordData.secondWordSynonym === undefined) {
+      throw('No synonyms. Start again.');
   }
 
   // If one of the two words has no synonym, leave it alone and replace the

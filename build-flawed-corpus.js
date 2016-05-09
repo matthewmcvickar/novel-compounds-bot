@@ -47,10 +47,10 @@ function splitCompounds (compoundWord) {
   //     - airp/lane, air/plane
   //     - headmi/stress, headm/istress, headmis/tress, head/mistress
   //
-  // The order of split point placement for the word 'skyscraper' would look
+  // The order of split point placement for the word 'dogcatcher' would look
   // like this:
   //
-  //     s / k / y / s / c / r / a / p / e / r
+  //     d / o / g / c / a / t / c / h / e / r
   //       7   5   3   1   0   2   4   6   8
 
   for (var i = 0; i < compoundWordLength/2; i++) {
@@ -94,9 +94,9 @@ function splitCompounds (compoundWord) {
 }
 
 function writeDataToFile (wordDataItems) {
-  // row format:
+  // Row format:
   // {
-  //   compound: "",
+  //   compoundWord: "",
   //   firstWord: "",
   //   secondWord: ""
   // }
