@@ -1,10 +1,10 @@
 'use strict';
 
 // Load libraries.
-var _          = require('underscore');
-var request    = require('request');
+var _ = require('underscore');
+var request = require('request');
 var wordfilter = require('wordfilter');
-var Twit       = require('twit');
+var Twit = require('twit');
 
 // Are we on production? Check if an important environment variable exists.
 function isProduction() {
@@ -16,21 +16,21 @@ function isProduction() {
 
 // Use environment variables if we're on production, config files if we're local.
 if (isProduction()) {
-  var WORDNIK_API_KEY  = process.env.WORDNIK_API_KEY;
+  var WORDNIK_API_KEY = process.env.WORDNIK_API_KEY;
   var twitter = new Twit({
-    consumer_key:        process.env.TWITTER_CONSUMER_KEY,
-    consumer_secret:     process.env.TWITTER_CONSUMER_SECRET,
-    access_token:        process.env.TWITTER_ACCESS_TOKEN,
+    consumer_key: process.env.TWITTER_CONSUMER_KEY,
+    consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+    access_token: process.env.TWITTER_ACCESS_TOKEN,
     access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
   });
 }
 else {
   var WORDNIK_API_KEY = require('./wordnik-config.js').wordnik_api_key;
-  var twitter         = new Twit(require('./twitter-config.js'));
+  var twitter = new Twit(require('./twitter-config.js'));
 }
 
 // Load corpora.
-var compoundWords         = require('./data/compound-words-canonical.json');
+var compoundWords = require('./data/compound-words-canonical.json');
 var numberOfCompoundWords = Object.keys(compoundWords).length;
 
 // Make new compound and tweet it.
@@ -194,8 +194,8 @@ function composeTweet (wordData) {
   return tweet;
 }
 
-function capitalizeFirstLetter (string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
+function capitalizeFirstLetter (words) {
+  return words.charAt(0).toUpperCase() + words.slice(1);
 }
 
 function postNewCompoundTweet (wordData) {
