@@ -218,7 +218,7 @@ function postNewCompoundTweet (wordData) {
 // Because Heroku cycles dynos once per day, the bot's schedule will not be
 // regular: https://devcenter.heroku.com/articles/how-heroku-works#dyno-manager
 if (isProduction()) {
-  var timesToTweetPerDay = 6;
+  var timesToTweetPerDay = 3;
 
   setInterval(function () {
     try {
