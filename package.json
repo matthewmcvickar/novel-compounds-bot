@@ -17,18 +17,18 @@
     "start": "node novel-compounds-bot.js"
   },
   "dependencies": {
-    "twit": "^2.2.3",
-    "request": "^2.69.0",
+    "twit": "^2.2.9",
+    "request": "^2.81.0",
     "underscore": "^1.8.3",
     "word-list-json": "^0.2.0",
     "wordfilter": "^0.2.6"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^1.0.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-jscs": "^2.8.0",
+    "grunt-jscs": "^3.0.1",
     "grunt-notify": "^0.4.5",
-    "jsonfile": "^2.2.3"
+    "jsonfile": "^3.0.1"
   }
 }
